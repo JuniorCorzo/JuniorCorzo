@@ -1,41 +1,98 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angel Corzo
-===================================================================================================================================
-
-Backend Developer
------------------
-
-With three years dedicated to the craft of software development, I bring a strong foundation and a continuous drive to learn and innovate. My formal education includes a Technology in Software Analysis and Development from SENA, which provided me with a robust understanding of the software development lifecycle. My technical skills are centered around Java, React, and TypeScript, technologies I leverage to build efficient and user-centric applications. I am passionate about creating impactful software solutions and eager to contribute my skills to challenging and rewarding projects."
-
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [josedanielmmf@gmail.com](mailto:josedanielmmf@gmail.com)
-* 🧠  I'm learning Rust with Actix
-* 🤝  I'm open to collaborating on backend projects
-
-<a href="https://www.github.com/JuniorCorzo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JuniorCorzo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
+# Hi there, I'm Angel Corzo 👋
+### Fullstack Developer | Colombia 🇨🇴
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://angelcorzo.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-angelcorzo.dev-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/angel-corzo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Angel%20Corzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JuniorCorzo" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-JuniorCorzo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:josedanielmmf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-josedanielmmf%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
+---
 
-### Socials
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.github.com/JuniorCorzo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/angel-corzo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I am a passionate **Fullstack Developer** based in Colombia, dedicated to engineering robust, high-performance, and scalable digital solutions. With an end-to-end perspective on software architecture, I specialize in:
 
-### Badges
+- 💻 **Modern Frontend:** Crafting intuitive, responsive user experiences with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+- ⚙️ **Backend & Distributed Systems:** Architecting resilient microservices and RESTful APIs using **NestJS**, **Java / Spring Boot**, **Rust**, and **Node.js**.
+- 🐳 **DevOps & Cloud Infrastructure:** Containerizing workloads and managing reliable deployment workflows with **Docker**, **Linux**, and modern CI/CD practices.
+- 🗄️ **Data Persistence:** Designing and optimizing performant relational and document datastores across **PostgreSQL**, **MongoDB**, and **MySQL**.
 
-<b>My GitHub Stats</b>
+Always committed to clean architecture, maintainability, and building software that delivers tangible real-world value.
 
-<a href="http://www.github.com/JuniorCorzo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorCorzo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/JuniorCorzo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JuniorCorzo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🛠️ Tech Stack
 
-<a href="https://github.com/JuniorCorzo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCorzo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+#### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-1c1917?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-1c1917?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-1c1917?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1c1917?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-1c1917?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1c1917?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+</p>
 
-<b>Top Repositories</b>
+#### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-1c1917?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Java-1c1917?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-1c1917?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Rust-1c1917?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Node.js-1c1917?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/JuniorCorzo/InstrumentsManage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorCorzo&repo=InstrumentsManage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/JuniorCorzo/FactusDependecy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuniorCorzo&repo=FactusDependecy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+#### Databases & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-1c1917?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-1c1917?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-1c1917?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-1c1917?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-1c1917?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-1c1917?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack / Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **handly** | Collaborative and productivity platform designed to streamline team workflows and task synchronization. | `TypeScript` `Next.js` `Tailwind CSS` | [View Repository →](https://github.com/JuniorCorzo/handly) |
+| **Nivo** | Real-time charting and interactive data visualization platform for analytics dashboards. | `React` `TypeScript` `Data Viz` | [View Repository →](https://github.com/JuniorCorzo/Nivo) |
+| **secop-agent** | Autonomous AI integration agent tailored for interacting with and querying Colombian public procurement (SECOP). | `Python` `AI Agent` `REST APIs` | [View Repository →](https://github.com/JuniorCorzo/secop-agent) |
+| **InstrumentsManage** | Web platform for comprehensive laboratory and industrial instrument management, tracking, and maintenance logs. | `Java` `Spring Boot` `React` | [View Repository →](https://github.com/JuniorCorzo/InstrumentsManage) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorCorzo&theme=tokyonight&hide_border=true&background=1c1917" alt="JuniorCorzo's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorCorzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="JuniorCorzo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCorzo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="JuniorCorzo's Top Languages" />
+</p>
+
+---
+
+### 📬 Contact & Connect
+
+Feel free to reach out for collaborations, discussions on fullstack engineering, or exciting opportunities:
+
+- **Portfolio:** [angelcorzo.dev](https://angelcorzo.dev)
+- **LinkedIn:** [Angel Corzo](https://www.linkedin.com/in/angel-corzo)
+- **GitHub:** [@JuniorCorzo](https://github.com/JuniorCorzo)
+- **Email:** [josedanielmmf@gmail.com](mailto:josedanielmmf@gmail.com)
