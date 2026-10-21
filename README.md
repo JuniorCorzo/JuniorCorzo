@@ -16,6 +16,19 @@
   </a>
 </p>
 
+<div align="center">
+
+<h3><code>JuniorCorzo@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./junior-ascii.svg" width="420" alt="Angel Corzo — ASCII portrait" /></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="JuniorCorzo's GitHub streak and stats — auto-refreshed daily" /></td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ### 👨‍💻 About Me
@@ -28,6 +41,29 @@ I am a passionate **Fullstack Developer** based in Colombia, dedicated to engine
 - 🗄️ **Data Persistence:** Designing and optimizing performant relational and document datastores across **PostgreSQL**, **MongoDB**, and **MySQL**.
 
 Always committed to clean architecture, maintainability, and building software that delivers tangible real-world value.
+
+---
+
+### 📈 Live Contributions
+
+<div align="center">
+
+<h3><code>JuniorCorzo@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="JuniorCorzo's GitHub contribution graph — auto-refreshed daily" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack / Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **handly** | Collaborative and productivity platform designed to streamline team workflows and task synchronization. | `TypeScript` `Next.js` `Tailwind CSS` | [View Repository →](https://github.com/JuniorCorzo/handly) |
+| **Nivo** | Real-time charting and interactive data visualization platform for analytics dashboards. | `React` `TypeScript` `Data Viz` | [View Repository →](https://github.com/JuniorCorzo/Nivo) |
+| **secop-agent** | Autonomous AI integration agent tailored for interacting with and querying Colombian public procurement (SECOP). | `Python` `AI Agent` `REST APIs` | [View Repository →](https://github.com/JuniorCorzo/secop-agent) |
+| **InstrumentsManage** | Web platform for comprehensive laboratory and industrial instrument management, tracking, and maintenance logs. | `Java` `Spring Boot` `React` | [View Repository →](https://github.com/JuniorCorzo/InstrumentsManage) |
 
 ---
 
@@ -61,40 +97,6 @@ Always committed to clean architecture, maintainability, and building software t
   <img src="https://img.shields.io/badge/Linux-1c1917?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-1c1917?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack / Highlights | Repository |
-| :--- | :--- | :--- | :---: |
-| **handly** | Collaborative and productivity platform designed to streamline team workflows and task synchronization. | `TypeScript` `Next.js` `Tailwind CSS` | [View Repository →](https://github.com/JuniorCorzo/handly) |
-| **Nivo** | Real-time charting and interactive data visualization platform for analytics dashboards. | `React` `TypeScript` `Data Viz` | [View Repository →](https://github.com/JuniorCorzo/Nivo) |
-| **secop-agent** | Autonomous AI integration agent tailored for interacting with and querying Colombian public procurement (SECOP). | `Python` `AI Agent` `REST APIs` | [View Repository →](https://github.com/JuniorCorzo/secop-agent) |
-| **InstrumentsManage** | Web platform for comprehensive laboratory and industrial instrument management, tracking, and maintenance logs. | `Java` `Spring Boot` `React` | [View Repository →](https://github.com/JuniorCorzo/InstrumentsManage) |
-
----
-
-### 📊 GitHub Stats & Terminal Activity
-
-<div align="center">
-
-<h3><code>JuniorCorzo@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="JuniorCorzo's GitHub contribution graph — auto-refreshed daily" />
-
-<br><br>
-
-<h3><code>JuniorCorzo@github ~ $ whoami</code></h3>
-
-<table>
-  <tr>
-    <td valign="top"><img src="./junior-ascii.svg" width="420" alt="Angel Corzo — ASCII portrait" /></td>
-    <td valign="top"><img src="./stats.svg" width="420" alt="JuniorCorzo's GitHub streak and stats — auto-refreshed daily" /></td>
-  </tr>
-</table>
-
-</div>
 
 ---
 

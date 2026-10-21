@@ -74,6 +74,7 @@ class TestReadme(unittest.TestCase):
                     if resp.status not in (200, 201, 202, 204, 301, 302, 307, 308):
                         failed_urls.append((url, resp.status))
             except urllib.error.HTTPError as e:
+                e.close()
                 if is_edge_case and e.code in (403, 429, 503, 999):
                     continue
                 failed_urls.append((url, f"HTTPError {e.code}"))
