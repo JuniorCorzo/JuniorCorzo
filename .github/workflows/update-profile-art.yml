@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
 
       - name: Set up Python
-        uses: actions/setup-python@0b93645e9fea7318edeed27965017192518e0b4a # v5.3.0
+        uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b # v5.3.0
         with:
           python-version: "3.11"
 
@@ -41,7 +41,7 @@ jobs:
         run: python scripts/render_stats_svg.py
 
       - name: Commit updated art
-        uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8088f38 # v5.1.0
+        uses: stefanzweifel/git-auto-commit-action@e348103e9026cc0eee72ae06630dbe30c8bf7a79 # v5.1.0
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
           file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"
