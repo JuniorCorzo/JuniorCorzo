@@ -75,16 +75,26 @@ Always committed to clean architecture, maintainability, and building software t
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Terminal Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuniorCorzo&theme=tokyonight&hide_border=true&background=1c1917" alt="JuniorCorzo's GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorCorzo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="JuniorCorzo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorCorzo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1c1917" alt="JuniorCorzo's Top Languages" />
-</p>
+<h3><code>JuniorCorzo@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="JuniorCorzo's GitHub contribution graph — auto-refreshed daily" />
+
+<br><br>
+
+<h3><code>JuniorCorzo@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./junior-ascii.svg" width="420" alt="Angel Corzo — ASCII portrait" /></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="JuniorCorzo's GitHub streak and stats — auto-refreshed daily" /></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
