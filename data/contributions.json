@@ -1,31 +1,31 @@
 {
   "username": "JuniorCorzo",
-  "generated_at": "2026-10-24T11:04:42Z",
+  "generated_at": "2026-10-25T11:33:58Z",
   "range": {
-    "start": "2025-10-19",
+    "start": "2025-10-26",
+    "end": "2026-10-25"
+  },
+  "total_contributions": 416,
+  "active_days": 86,
+  "avg_per_active_day": 4.8,
+  "current_streak": {
+    "length": 9,
+    "start": "2026-10-16",
     "end": "2026-10-24"
   },
-  "total_contributions": 452,
-  "active_days": 86,
-  "avg_per_active_day": 5.3,
-  "current_streak": {
-    "length": 8,
-    "start": "2026-10-16",
-    "end": "2026-10-23"
-  },
   "longest_streak": {
-    "length": 8,
-    "start": "2026-08-16",
-    "end": "2026-08-23"
+    "length": 9,
+    "start": "2026-10-16",
+    "end": "2026-10-24"
   },
   "best_day": {
-    "date": "2025-10-20",
-    "count": 43
+    "date": "2026-08-19",
+    "count": 16
   },
   "monthly": [
     {
       "month": "2025-10",
-      "total": 56
+      "total": 13
     },
     {
       "month": "2025-11",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 88
+      "total": 95
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 43,
-      "level": 4
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-24",
+      "count": 7,
+      "level": 2
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
